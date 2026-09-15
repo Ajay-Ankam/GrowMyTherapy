@@ -50,12 +50,12 @@ export default function OurOffice() {
 
           <div className="lg:col-span-6 grid grid-cols-2 gap-4">
             <img
-              src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&q=80&w=600"
+              src="office1.jpeg"
               alt="Therapy Office Space"
               className="w-full h-64 object-cover rounded-2xl shadow-md border border-white"
             />
             <img
-              src="https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&q=80&w=600"
+              src="office2.jpeg"
               alt="Calm Natural Light Room"
               className="w-full h-64 object-cover rounded-2xl shadow-md border border-white mt-8"
             />

@@ -2,7 +2,7 @@
 **Candidate Name:** Ajay Ankam  
 **Role:** Front-End Developer Intern  
 **Project:** Creative Redesign & Clone for Dr. Maya Reynolds, PsyD  
-**Live Demo:** [Insert Vercel / Netlify Link Here]  
+**Live Demo:** [(https://growmytherapy-alpha.vercel.app/)]  
 **Video Walkthrough:** [Insert Loom Video Link Here]  
 
 ---
