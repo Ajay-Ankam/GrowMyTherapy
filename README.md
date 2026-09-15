@@ -3,7 +3,7 @@
 **Role:** Front-End Developer Intern  
 **Project:** Creative Redesign & Clone for Dr. Maya Reynolds, PsyD  
 **Live Demo:** [(https://growmytherapy-alpha.vercel.app/)]  
-**Video Walkthrough:** [Insert Loom Video Link Here]  
+**Video Walkthrough:** [(https://www.loom.com/share/16cdc0d9c13c4138933760e174b9971c)]  
 
 ---
 
